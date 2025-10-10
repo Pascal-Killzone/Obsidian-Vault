@@ -27,8 +27,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Choire of Despair/Das Buch der Tiefe.md",
-                "mode": "source",
+                "file": "Das Lied der Tiefe/Das Buch der Tiefe.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -185,13 +185,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "3e08d380bbc7f56c",
+  "active": "1dd9946634a0f9f0",
   "lastOpenFiles": [
-    "Choire of Despair/Bestiarium der Threnai.md",
-    "Choire of Despair/README.md",
-    "Choire of Despair/Das Lied der Tiefe- Kampagne.md",
+    "Das Lied der Tiefe/Bestiarium der Threnai.md",
+    "Das Lied der Tiefe/README.md",
+    "Das Lied der Tiefe/Das Lied der Tiefe- Kampagne.md",
     "Untitled.base",
-    "Choire of Despair/Das Buch der Tiefe.md",
-    "Choire of Despair"
+    "Das Lied der Tiefe/Das Buch der Tiefe.md",
+    "Das Lied der Tiefe"
   ]
 }
