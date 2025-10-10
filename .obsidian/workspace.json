@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Choire of Despair/Choir of Despair - Kampagne.md",
+                "file": "Choire of Despair/Das Lied der Tiefe- Kampagne.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Choir of Despair - Kampagne"
+              "title": "Das Lied der Tiefe- Kampagne"
             }
           },
           {
@@ -34,23 +34,8 @@
               "icon": "lucide-file",
               "title": "Bestiarium der Threnai"
             }
-          },
-          {
-            "id": "a3cb432e7db4ebe9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Choire of Despair/README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,13 +184,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1dd9946634a0f9f0",
+  "active": "493c1eff239d0017",
   "lastOpenFiles": [
-    "Choire of Despair/README.md",
     "Choire of Despair/Bestiarium der Threnai.md",
+    "Choire of Despair/README.md",
     "Untitled.base",
     "Choire of Despair/Das Buch der Tiefe.md",
-    "Choire of Despair/Choir of Despair - Kampagne.md",
+    "Choire of Despair/Das Lied der Tiefe- Kampagne.md",
     "Choire of Despair"
   ]
 }
