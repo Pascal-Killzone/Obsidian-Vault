@@ -1,11 +1,11 @@
-# 🎭 Der Chor der Verzweiflung  
+# 🎭 Das Lied der Tiefe  
 ### Eine Dungeons & Dragons 5e Kampagne im Universum der Resonanz  
 
 ---
 
 ## 🜂 Überblick
 
-**„Der Chor der Verzweiflung“** ist eine düstere, kosmisch inspirierte D&D-5e-Kampagne,  
+**„Das Lied der Tiefe“** ist eine düstere, kosmisch inspirierte D&D-5e-Kampagne,  
 die sich um Klang, Erinnerung und das unausweichliche Gleichgewicht zwischen Leben und Stille dreht.  
 Sie erzählt keine Geschichte von Helden und Bösewichten,  
 sondern von einer Welt, die beginnt, sich **selbst zu hören** –  

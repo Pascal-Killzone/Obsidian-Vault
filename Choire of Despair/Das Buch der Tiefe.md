@@ -23,10 +23,10 @@ nicht in ein Paradies, sondern in den Gleichklang der Resonanz.
 
 Aus der Urresonanz entstanden zwei Reaktionen:
 
-- **Das Licht** – das Streben nach Vielfalt, nach Disharmonie,  
+- **Das "Licht"** – das Streben nach Vielfalt, nach Disharmonie,  
     der Drang, neue Töne zu erzeugen, immer lauter, immer chaotischer.
     
-- **Die Dunkelheit** – der Wunsch, alles wieder anzugleichen,  
+- **Die "Dunkelheit"** – der Wunsch, alles wieder anzugleichen,  
     jede Abweichung in Harmonie zu überführen,  
     bis wieder nur Stille bleibt.
     
@@ -134,7 +134,7 @@ In jedem von ihnen hallt der Akkord der Tiefe,
 doch kein Einzelner trägt alle drei Töne.
 
 Eirachs Kinder sind ruhig und unbeugsam,  
-Kharox’ Blutlinie organisiert, präzise,  
+Kharox’ Blutlinie organisiert und präzise,  
 Saaths Erben hören Dinge, die nie gesprochen wurden.
 
 Man sagt, wenn drei Threnai der reinen Linien zusammentreffen,  
@@ -329,11 +329,6 @@ und der Chor der Verzweiflung
 sein unvollendeter Atemzug.
 
 ---
- Wunderbar.  
-Hier folgt **Teil 3 des Buchs der Tiefe**, der Abschnitt über die drei Architonen – die Urtöne der Resonanz – und ihre Beziehung zu den Threnai.  
-Ich halte den gleichen sprachlichen und ästhetischen Stil wie zuvor bei.
-
----
 
 # _Teil 3 – Die Architonen und die Kinder der Resonanz_
 
@@ -450,7 +445,7 @@ Doch nie seit der Geburt der Welten waren sie vollständig vereint.
 Die Threnai sagen, diese Trennung sei der Grund, warum die Welt besteht.  
 Würden die Architonen wieder eins, würde alles Schwingen enden.
 
-Darum bauen die Threnai ihre Resonanzmaschinen nicht, um sie zu rufen,  
+Darum bauen die Threnai ihre Resonanzmaschinen, nicht um sie zu rufen,  
 sondern um sie **fernzuhalten und gleichzeitig zu verstehen.**  
 Ein Paradoxon: Sie suchen die Stille, aber fürchten ihr Eintreten.
 
@@ -500,11 +495,6 @@ Er lehrt, dass die Welt nicht aufgebaut, sondern gespielt wird –
 dass alles Sein ein Klang ist, der noch nicht verklungen ist.
 
 ---
-Perfekt.  
-Dann schließen wir dein **Buch der Tiefe** mit einem atmosphärischen **Anhang IV: Fragmente und Mythen der Threnai** ab – Texte, Gebete, Überlieferungen und Zitate, wie sie in In-Game-Quellen vorkommen könnten.  
-Dieser Abschnitt soll _nicht erklären_, sondern _fühlen lassen_: alte Worte, Tempelinschriften, Verse, Gebete, und Resonanzfragmente, die die Spieler oder Leser entdecken könnten.
-
----
 
 # _Anhang IV – Fragmente und Mythen der Threnai_
 
@@ -520,7 +510,7 @@ Jeder Schritt, jedes Atmen, jedes Wort gehört zu einem unsichtbaren Takt.
 Ihre Tempel tragen keine Gebete, sondern **Partituren aus Stein.**  
 Wenn Wind durch ihre Hallen streicht, erklingt das Gebet von selbst.
 
-Ein Fragment aus dem **Codex der Stille** beschreibt es so:
+Ein Fragment aus dem **Codex der Stille** "beschreibt" es so:
 
 > _„Der Ton, der dich trägt, ist der Ton, den du tötest.  
 > Atme, und du zerstörst die Stille.  
@@ -601,7 +591,7 @@ sondern Erinnerung.
 
 ---
 
-## 6. Aus der Chronik der Stille
+## 6. Aus der Chronik der Lautlosigkeit
 
 Ein seltener Bericht eines Menschen,  
 der die Städte der Threnai betrat und lebend zurückkehrte:
@@ -620,9 +610,33 @@ Er sagte:
 > _„Ich höre das Fundament in allem.  
 > Es will mich zurück.“_
 
+
 ---
 
-## 7. Das Ende des Liedes
+## 7. Der Codex der Stille
+
+> *„Nicht geschrieben, sondern gehört.
+> Nicht gelesen, sondern verstanden.“*
+
+Der Codex der Stille ist kein Buch, sondern ein Zustand.
+Er soll aus einer einzigen ununterbrochenen Schwingung bestehen,
+die nur in absoluter Lautlosigkeit wahrnehmbar ist.
+Die Threnai glauben, wer ihn „hört“,
+hört die Wahrheit des Universums – und vergisst den eigenen Namen.
+
+Es heißt, er enthält **neun Verse ohne Worte**,
+und jeder, der sie begreift,
+verstimmt die Welt ein Stück weiter.
+Die Architekten der Tiefe bewahren seine Fragmente
+in vibrierenden Kammern aus Glas,
+in denen kein Laut gesprochen werden darf.
+
+> *„Ein Wort ist ein Fehler im Stein.
+> Ein Gedanke, ein Riss im Wasser.“*
+
+---
+
+## 8. Das Ende des Liedes
 
 > _„Wenn alles klingt, wird nichts mehr klingen.“_
 
@@ -645,9 +659,11 @@ was sie nie verstand:
 > _„Dass Klang nicht Leben ist –  
 > sondern Erinnerung an den Tod.“_
 
+
+
 ---
 
-## 8. Letzte Inschrift
+## 9. Letzte Inschrift
 
 > _„Hier endet das Buch der Tiefe.  
 > Wer die Stille sucht, wird sie hören.  
@@ -655,4 +671,3 @@ was sie nie verstand:
 > Wer sie versteht,  
 > wird nie wieder sprechen.“_
 
----
