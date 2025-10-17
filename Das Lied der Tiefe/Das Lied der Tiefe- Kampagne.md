@@ -1,903 +1,299 @@
-# 🜂 **Phase I – Das Erwachen der Stille**
-## Akt I – Das Flüstern im Staub
+# **Akt I – Das Flüstern im Staub**
 
-_„Die Stille hat viele Stimmen. In Tharum lernt man, sie zu überhören.“_
+_Ein langsames Erwachen. Staub, Sonne, und etwas, das die Luft erinnert._
 
-**Ort:** Tharum, Grenzstadt am Südrand der Anauroch  
-**Empfohlene Stufen:** 1 → 2  
-**Spielzeit:** 3–4 Stunden (1 Sitzung)  
-**Themen:** Routine, subtile Unstimmigkeit, Staub & Muster  
-**Atmosphäre:** melancholisch – nicht unheimlich, aber unwirklich geordnet
+> **Ziel des Akts:**  
+> Die SC kommen in Tharum an, spüren (nur bei aktivem Suchen) erste Resonanz-Anzeichen, hören von der Minentragödie, geraten in eine erste, überschaubare Konfrontation, und wagen sich schließlich in den alten Schacht. Am Ende kennen sie die Begriffe _Resonanz_, _Chor der Verzweiflung_ (als Gerücht) und besitzen ein erstes Relikt der Tiefe.  
+> **Meilenstein:** Stufe 2 nach Kapitel 2, Stufe 3 am Ende des Akts (Kapitel 3).
 
 ---
 
-### Szenenübersicht
+## Kapitel 1 – **Ankunft in Tharum**
 
-1. **Ankunft – Der Wind von Amn**
+### Szene 1 – **Staubstraße & Tor** (Ankommen, Ton setzen)
+
+**Boxtext**
+
+> Die Straße schlägt Wellen im Wärmeflimmern. Tharum liegt wie ein bleicher Stein am Rand der Steppe – Mauern aus staubigem Lehm, Häuser wie gefaltete Stille. Am Tor lehnt ein Wächter, der nicht gähnt, sondern den Mund nur einen Atemzug zu lang geschlossen hält. Dahinter: Stimmen, Markt, Metall. Ein Ort wie jeder andere. Wenn man nicht zuhört.
+
+**Was geschieht:**
+
+- Einfahrt ohne Drama. Die SC registrieren einen normalen, geschäftigen Ort.
     
-2. **Am Tor – Wachen und Gewohnheit**
+- **Nur bei aktivem Suchen:** _Wahrnehmung_ (DC 13): Ein Kind springt Seil – die Schläge sind **auffällig gleichmäßig**. _Einsicht_ (DC 12): An den Torpfosten sind kleine Kerben, die exakt gleich weit auseinanderstehen (alte Wachdienst-Rillen → später als „Taktmarken“ erkennbar).
     
-3. **Die Straßen von Tharum**
+
+**DM-Hinweise:**
+
+- Noch keine expliziten Hinweise auf „Chor“. Subtilität vor Klarheit.
     
-4. **Der Marktplatz bei Abend**
-    
-5. **Kinder im Staub**
-    
-6. **Tempel des Morgens**
-    
-7. **Der Schmied und sein Echo**
-    
-8. **Gespräche am Brunnen**
-    
-9. **Maris Vahr**
-    
-10. **Die Nacht über Tharum / Der Aufbruch**
+- Vermeide Worte wie „seltsam“; beschreibe nur **Regelmäßigkeit**.
     
 
 ---
 
-### 1. Ankunft – Der Wind von Amn
+### Szene 2 – **Markt, Werkstätten & lautlose Pausen** (freie Erkundung)
 
-#### Vorlesetext
+**Boxtext**
 
-> Der Wind schmeckt nach Eisen und Salz.  
-> Zwischen den Dünen taucht Tharum auf – eine Stadt aus Lehm und blassem Stein,  
-> vom Sand halb verschluckt, vom Handel am Leben gehalten.  
-> Nichts an ihr wirkt besonders – doch die Stille zwischen den Windböen scheint zu lauschen.
+> Der Markt ist ein Farbkreis aus Gewürzen, Leder, Töpferwaren. Händler rufen, falsches Lachen knackt wie trockenes Holz. Irgendwo schlägt ein Schmied auf Metall. Drei Schläge – eine Pause – drei Schläge – eine Pause.
 
-**DM-Hinweis:** Lass jeden Spieler beschreiben, wie sein Charakter die Hitze und den Staub wahrnimmt. Das bringt sie in den Rhythmus der Szene.
+**Erkundungspunkte (je 1–2 Sätze):**
 
-**Für aufmerksame SCs**
-
-- **Perception DC 13:** Ein leises Vibrieren im Sand, nur wenn sie stehen bleiben.
+- **Der Schmied „Harl“** – _Handwerk_ oder _Wahrnehmung_ (DC 12): sein Rhythmus ist **unnatürlich konstant**; bei Ansprache stoppt er einen Herzschlag zu früh/zu spät.
     
-- **Insight DC 12:** Die Wachen am Tor scheinen zu müde für diese Uhrzeit.
+- **Krämerin „Selda“** – gibt Stadtgerüchte (siehe Tabelle).
     
+- **Brunnenplatz** – _Wahrnehmung_ (DC 14): Seifenblasen von spielenden Kindern platzen **immer** nach gleicher Flugzeit (kleiner, hübscher Effekt).
+    
+
+**Gerüchtetabelle (W6):**  
+1–2: „Die Mine ruht — zu viele Tote in der letzten Schicht.“  
+3: „Im alten Schacht gibt’s Gase. Oder Geister. Ist beides schlecht.“  
+4: „Der Rat zahlt Kopfgeld auf Einbrecher… in den Schacht!“ (falsch, aber nützlich)  
+5: „Seit kurzem schlafen viele schlecht. Gleicher Traum: leere Halle, nasse Wände.“  
+6: „Die Glocke? Welche Glocke? — _Welche Glocke?_“ (verunsicherter Blick)
 
 ---
 
-### 2. Am Tor – Wachen und Gewohnheit
+### Szene 3 – **Gasthaus „Zimbel & Salz“** (soziale Knoten, Nacht)
 
-#### Vorlesetext
+**Boxtext**
 
-> Zwei Wachen stehen im Schatten des Stadttors.  
-> Ihre Rüstungen sind blind vom Staub, die Augen rot vom Wind.  
-> Der eine gähnt, der andere summt leise, ohne es zu merken – keine Melodie, nur Ton und Pause.
+> Der Wirt poliert eine Schale, die bereits blind glänzt. Im Schankraum murmeln Stimmen mit der Zähigkeit warmen Honigs. An der Wand hängt eine schlichte Zimbel. Niemand schlägt sie. Und doch, wenn es still wird, meint man ein fernes Nachklingen zu hören, wie einen Ton, der nicht aufgehört hat.
 
-**Dialog Beispiel**  
-**Wächter Joran:** „Willkommen in Tharum. Wenn ihr Handel bringt, die Markthalle steht offen. Wenn ihr Fragen stellt – stellt sie leise.“
+**Sozialspiel & Hinweise (frei wählbar):**
 
-**Checks**
-
-- **Insight DC 13:** Er merkt nicht, dass er summt.
+- **Wirt „Darel“** – freundlich, ängstlich. Redet ausweichend über die Mine.
     
-- **Religion DC 12:** Er trägt das Symbol Lathanders, aber es ist umgedreht angebracht.
+- **Kartentisch** – _Überreden/Überzeugen_ (DC 13) oder eine Runde mitspielen → 1–2 präzisere Infos:
     
-
----
-
-### 3. Die Straßen von Tharum
-
-#### Vorlesetext
-
-> Die Gassen sind eng und staubig, die Häuser flach und verwinkelt.  
-> Händler rufen leise, als dürften ihre Worte nicht weit fliegen.  
-> Alles scheint geordnet – vielleicht zu geordnet.
-
-**DM-Hinweis:** Lass die Spieler frei erkunden – nichts Außergewöhnliches passiert, bis sie es suchen.
-
-**Für aufmerksame SCs**
-
-- **Perception DC 14:** Alle Türen und Fensterläden schwingen im gleichen Takt des Windes.
-    
-- **Investigation DC 15:** Staub liegt in feinen, konzentrischen Kreisen an den Ecken der Straßen.
-    
-
----
-
-### 4. Der Marktplatz bei Abend
-
-#### Vorlesetext
-
-> Der Markt leert sich.  
-> Ein alter Flötist spielt drei Töne, immer wieder.  
-> Niemand beachtet ihn – vielleicht, weil niemand mehr zuhört.
-
-**Interaktionen**
-
-- **Performance DC 12:** Die Melodie wiederholt sich ohne Abweichung.
-    
-- **Arcana DC 14:** Kein magischer Ursprung, nur Perfektion.
-    
-- **Dialog:**
-    
-    > „Der Wind mag die Töne nicht – darum bleiben sie hier.“
-    
-
----
-
-### 5. Kinder im Staub
-
-#### Vorlesetext
-
-> In einer Seitenstraße spielen Kinder mit Kreisen aus Steinen.  
-> Sie springen darüber, klatschen, lachen.  
-> Das Lachen hat Rhythmus. Immer drei Schläge – Pause – drei Schläge.
-
-**Checks**
-
-- **Perception DC 15:** Kein Kind verpasst den Einsatz.
-    
-- **Insight DC 13:** Zwei Kinder bewegen die Lippen, ohne Ton – und doch hört man sie.
-    
-
-Wenn man sie fragt:
-
-> „Das ist das Lied vom Sand. Er kennt uns.“  
-> Sie laufen lachend davon.
-
----
-
-### 6. Tempel des Morgens
-
-#### Vorlesetext
-
-> Der Tempel Lathanders liegt still am Rand der Stadt.  
-> Licht fällt durch rote Scheiben, staubig und alt.  
-> Der Priester spricht ein Gebet – jede Zeile endet im gleichen Abstand.
-
-**Checks**
-
-- **Religion DC 14:** Kein Fehler im Ritus, aber der Rhythmus ist mechanisch.
-    
-- **Arcana DC 15:** Schwingung in der Luft, kaum hörbar.  
-    **Priester Santhor:** „Man träumt hier leicht vom Licht. Vielleicht weil es nie ganz aufhört.“
-    
-
----
-
-### 7. Der Schmied und sein Echo
-
-#### Vorlesetext
-
-> Das Klopfen eines Hammers.  
-> Gleichmäßig, präzise, wie ein Herzschlag aus Metall.  
-> Doch jeder Schlag hallt zweimal zurück.
-
-**Torren Hal, Schmied:**
-
-> „Die Mine hat Werkzeuge gebraucht. Jetzt liegt sie still. Man sagt, sie atmet noch.“
-
-**Checks**
-
-- **Investigation DC 14:** Der Hall kommt nicht von den Wänden, sondern aus dem Boden.
-    
-- **Insight DC 13:** Torren spricht von der Mine, als wäre sie eine Person.
-    
-
----
-
-### 8. Gespräche am Brunnen
-
-#### Vorlesetext
-
-> Am Abend sammeln sich Menschen am Brunnen.  
-> Ihre Stimmen mischen sich mit dem Rauschen des Wassers – doch kein Ton scheint fremd zu klingen.  
-> Jeder Satz passt in den nächsten, als würde die Stadt selbst sprechen.
-
-**Gerüchte (d4)**
-
-1. „Seit dem Einsturz träumt der Boden.“
-    
-2. „Maris Vahr kam zurück, aber ohne die anderen.“
-    
-3. „Die Mine flüstert, wenn der Wind steht.“
-    
-4. „Die Glocke im Turm läutet manchmal ohne Hände.“
-    
-
-**Checks**
-
-- **Insight DC 12:** Die Leute sprechen fast unisono.
-    
-- **Perception DC 14:** Im Brunnen hallt jedes Wort zwei Herzschläge später zurück.
-    
-
----
-
-### 9. Maris Vahr
-
-#### Vorlesetext
-
-> Eine Frau sitzt am Rand des Brunnens, die Hände im Wasser.  
-> Ihr Gesicht ist verbrannt von Sonne und Wind, die Augen leer wie Spiegel.  
-> Als ihr Name fällt, blickt sie auf – nicht auf euch, sondern durch euch hindurch.
-
-**Dialog**
-
-> „Ich war dort. In der Tiefe. Ich kam zurück, weil die Tiefe mich nicht haben wollte.“  
-> „Ihr hört sie auch, nicht wahr? Im Wind.“
-
-**Checks**
-
-- **Insight DC 15:** Sie spricht ruhig, aber ihre Atmung passt nicht zu ihren Worten – zwei Takte versetzt.
-    
-- **Arcana DC 16:** Kaum hörbares Brummen in der Luft, wenn sie spricht.
-    
-
-Nach kurzer Zeit steht sie auf und geht. Niemand achtet darauf.
-
----
-
-### 10. Die Nacht über Tharum / Der Aufbruch
-
-#### Vorlesetext
-
-> Die Nacht fällt wie ein Tuch aus Glas.  
-> Kein Wind. Kein Tier. Kein Lied.  
-> Nur Stille – und darunter etwas, das auf den nächsten Ton wartet.
-
-**Ereignis**
-
-- **Perception DC 14:** Ein dumpfer Schlag unter der Erde, ein einziger.
-    
-- **Insight DC 13:** Das Gefühl, dass die Stadt für einen Atemzug zuhört.
-    
-
-Am Morgen: Maris Vahr steht am Tor.
-
-> „Der Sand kennt den Weg. Wenn ihr wissen wollt, was ich gehört habe – geht.“
-
-Damit endet Akt I und führt direkt in **Akt II – Sand, Sonne und Schweigen**.
-
----
-
-### Ergebnis des Akts
-
-- Die SC kennen Tharum und einige wichtige NSC.
-    
-- Kein sichtbarer Horror, nur Muster und Wiederholung.
-    
-- **Belohnung:** Erfahrung für soziale Interaktion / Erkundung → Erreichen von Stufe 2.
-    
-- **Ton:** melancholisch, leicht unwirklich, ruhig.
-    
-- **Foreshadowing:** Ein dumpfer Ton – der erste Herzschlag der Mine.
-    
-
----
-
-## Akt II – Sand, Sonne und Schweigen
-
-_Die Wüste singt nicht. Sie erinnert sich._
-
-**Prämisse:** Die SC verlassen Tharum und reisen als kleine Karawane oder lose Gruppe gen Nordosten, wo die Mine liegen soll. Der Akt ist **offen** angelegt: du kannst Szenen weglassen, Reihenfolgen tauschen oder sie als Hexcrawl-Bausteine verwenden. Die Hive sind hier noch **nur Berührung**, keine offene Präsenz.
-
----
-
-### Szenenübersicht (frei kombinierbar)
-
-1. **Am Stadtrand** – Abschied vom Atem der Stadt
-    
-2. **Der erste Tag** – Hitze, Fernsicht, Wegwahl
-    
-3. **Spuren der Karawane** – Fracht, Fuß, verlorene Zeit
-    
-4. **Mittagsrast** – Glut, Fata Morgana, erste Müdigkeit
-    
-5. **Sand, der spricht** – Staubteufel & Flüstern (ohne Magie)
-    
-6. **Der Himmel der Nadeln** – Nacht, Sterne, kleine Unruhe
-    
-7. **Der verlorene Schrein** (optional) – versandeter Netheril-Tempel (Mini-Dungeon)
-    
-8. **Die Richtung der Stille** – Kompassversagen & Resonanzfelsen
-    
-9. **Die Stille unter dem Sand** – Wüstenkampf (Mephits & Hive-berührte Bulette)
-    
-10. **Oase Arem** – Ruhe, Träume, kleine Wahrheiten
-    
-11. **Fernbeben** – dumpfer Schlag aus Richtung der Mine (Akt-Hook)
-    
-
----
-
-### Szene 1 – Am Stadtrand (Abschied)
-
-#### Vorlesetext
-
-> Hinter euch liegt Tharum, kleiner als ein Atemzug, staubig wie ein vergessenes Wort.  
-> Vor euch liegt die Wüste – eine Fläche aus Messern aus Licht und Wogen aus Sand.  
-> Der Morgen ist milchig; selbst die Sonne scheint sich nicht sicher zu sein, ob sie hier scheinen sollte.
-
-**Hinweise:** Lasst die SC entscheiden, ob sie Ausrüstung ergänzen (Wasser, Wagen, Zelte).
-
-- **Survival DC 12**: sinnvolle Routenplanung → +1 Inspiration für einen SC, der den Weg übernimmt.
-    
-- **Persuasion DC 13** mit einem Karawanenführer aus Tharum: Vorteil auf den ersten **Navigation Check**.
-    
-
-#### Für sehr aufmerksame SCs
-
-- **Perception DC 14:** Der Sand dicht vor den Toren ist in sanfte, **kreisförmige** Wellen gelegt – nicht vom Wind, eher von etwas Tieferem.
-    
-- **Arcana DC 15:** Kein Zauber; eher ein **Nachhall** – wie ein Abdruck von Klang.
-    
-
----
-
-### Szene 2 – Der erste Tag (Hitze & Wegwahl)
-
-#### Vorlesetext
-
-> Die Sonne steigt, und mit ihr ein Summen, das in eurem Blut beginnt.  
-> Nicht laut, nicht fremd – eher wie die Erinnerung an Wärme, die zu lange im Körper blieb.
-
-**Mechanik (Reiseblock):**
-
-- Täglicher **Navigation Check**: **Survival DC 12** (mit Karte/Leitstern) oder **DC 14** ohne.
-    
-    - Erfolg: normale Reise.
+    - Die „Unglücksschicht“ (vor 12 Tagen),
         
-    - Misserfolg: +2 Stunden Umweg, 1 Stufe **Ermüdung** für den schwächsten SC (Con Save DC 12 negiert).
+    - Name **Maris Vahr** (Überlebende, hält sich verborgen),
         
-- **Random Prompt (d6):**
+    - Name **Vorarbeiter Kett** (seitdem „anders“).
+        
+- **Nacht:** SC, die **aktiv lauschen** (_Wahrnehmung_ DC 14), bemerken: In drei entfernten Häusern **erlöschen Kerzen im gleichen Moment**.
     
-    1. Schädel eines Packtiers halb verschüttet.
-        
-    2. Zerbrochene Wasserkrüge; noch feucht.
-        
-    3. Spuren eines kleinen Lagers (letzte Nacht).
-        
-    4. Ein einzelner Handschuh mit eingetrocknetem Blut.
-        
-    5. Ein kleiner Obelisk aus schwarzem Stein: keine Inschrift, Oberfläche kalt.
-        
-    6. Das Flattern einer Fahnenleine – doch kein Mast, keine Fahne.
-        
 
-#### Für sehr aufmerksame SCs
+**Optionales Micro-Event:**  
+Ein betrunkener Arbeiter verabschiedet sich, stolpert hinaus. _Wahrnehmung_ (DC 12): seine Schritte **takten**. Folge → führt zu Szene 4 in Kapitel 2.
 
-- **Investigation DC 13** an Fundstellen → Erkennen: _Karawanenspuren sind gleichmäßig, Tritt für Tritt wie kopiert_.
+---
+
+## Kapitel 2 – **Spuren der Mine**
+
+### Szene 4 – **Anstoß: Der falsche Takt** (vom Gerücht zur Spur)
+
+**Boxtext**
+
+> Morgens liegt die Stadt stiller als die Wüste. Es ist kein Mangel an Lärm — sondern ein Zuviel an Gleichmaß. Der Ratssaal öffnet, Gesichter wie staubige Münzen. Namen werden genannt. Unfall. Abschluss. Weitergehen.
+
+**Ziel:** Die SC erkennen, dass es keine Hilfe „von oben“ gibt; wenn sie es wissen wollen, müssen sie **selbst** suchen.
+
+**Wege zu Informationen (wähle 2–3):**
+
+- **Ratsgehilfe „Toman“** – _Überzeugen_ (DC 14): gibt zähneknirschend den Standort **„Alter Schacht West“** heraus.
     
-- **Insight DC 12:** Das Muster ist zu exakt für müde Menschen.
+- **Archiv der Zunft** – _Nachforschungen_ (DC 13): alte Karten → **Seitenstollen** nicht auf neueren Plänen.
+    
+- **Vorarbeiter Kett** – schwer zugänglich; _Einschüchtern_ (DC 15) oder _Überreden_ (DC 14): bricht in starre Floskeln, wiederholt Sätze (Nachhall); nennt „**die Glocke**“ – und erstarrt.
     
 
 ---
 
-### Szene 3 – Spuren der Karawane (Fracht & Fuß)
+### Szene 5 – **Erste Störung: Straßen-Unfall → Kampf 1**
 
-#### Vorlesetext
+**Auslöser:** In der Nähe des Schmieds geraten drei Arbeiter in Streit. Ein Metallträger stürzt, die Luft **zittert** – ein kleiner **Resonanzriss** öffnet sich.
 
-> Gegen Mittag findet ihr die Reste einer Ladung: Holzsplitter, zerknickte Bänder, Sand, der nach kaltem Metall riecht.
+**Gegner:**
 
-**Interaktion & Checks**
-
-- **Investigation DC 12:** Die Kisten trugen einfache Werkzeuge, Bergmannszeug, Seile, Öle.
+- 2 × **Resonanzecho** (CR ¼, Bestiarium der Threnai)
     
-- **Survival DC 13:** Frische Spuren, höchstens ein Tag alt, führen nordostwärts.
-    
-- **Medicine DC 12:** Ein Tropfen Blut, verwischt → keine Schleifspur (niemand wurde getragen).
+- 1 × **Resonanz-Akolyt** (CR 1) – ehemals stiller Besucher, jetzt „aufgewacht“
     
 
-**Konsequenz:**  
-Erfolg bei **Survival** → Advantage auf den nächsten Navigation Check.  
-Misserfolg → _Fata Morgana-Hufeisen_: optische Täuschung; −2 auf Perception bis zur nächsten Rast.
+**Kampfbeschreibung (kurz & knapp):**
 
-#### Für sehr aufmerksame SCs
-
-- **Perception DC 15:** Auf einem Holzsplitter feine **zahnartige Rillen**, als hätte Wind _gleichmäßig_ daran genagt.
+- Das Echo „fließt“ durch Menschenmengen; Angriffe mit **Schallschaden** haben Nachbeben (Beschreibung!), nicht extra Schaden.
     
-- **Arcana DC 15:** Kein Zauber; **Resonanzriefen** – wenn Klang Sand schleift.
+- Der Akolyt erzeugt **Aura der Frequenz**: Zauber verzögern sich (erzählerisch nutzen!).
+    
+- **Ziel:** Zusammenbruch eindämmen, Zivilisten schützen (je 2 gerettete Personen = kleiner Stadtbonus später).
     
 
----
+**Taktik:**
 
-### Szene 4 – Mittagsrast (Glut & Fata Morgana)
-
-#### Vorlesetext
-
-> Die Luft wird zu Glas.  
-> Ein Schatten, der keiner ist, liegt über euch, und die Hitze zieht Fäden zwischen euren Gedanken.  
-> Das Wasser schmeckt nach Metall.
-
-**Mechanik:** kurze Rast.
-
-- **Con Save DC 12** (Hitze): bei Misserfolg 1 Stufe **Ermüdung** (DMG Hitzeregeln optional).
+- Echos gehen auf **sprechende** SC, der Akolyt bleibt in Reichweite von 10 ft zu Zauberern.
     
-- **Wis Save DC 11** (Erschöpfung/Trance): bei Misserfolg flüchtige **Sinnestäuschung** (ein Geräusch der eigenen Schritte klingt _halb versetzt_).
+- Nach 2–3 Runden Ankunft der Stadtwache; sie ist **keine** Hilfe im Kampf, nur Kulisse/Dringlichkeit.
     
 
-#### Für sehr aufmerksame SCs
+**Belohnung/Spuren:**
 
-- **Perception DC 14:** Eine ganz sanfte **Vibration** im Sand – als wäre weit unter ihnen etwas in Bewegung.
+- Am Gürtel des Akolyten: **Resonanz-Notiz** (Runen wie Taktlinien) → Vorteil auf Arkana-Proben zur Glocke im Kapitel 3.
     
-- **Religion DC 13 (Lathander-Anhänger haben Vorteil):** Das Muster in der Luft wirkt **wie Gebetspausen** – doch niemand betet hier.
+- Ruf in Tharum +1 (Händlerpreise, +10%).
     
 
 ---
 
-### Szene 5 – Sand, der spricht (Staubteufel)
+### Szene 6 – **Maris Vahr** (später, vorsichtig, menschlich)
 
-#### Vorlesetext
+**Boxtext**
 
-> Ein feiner, grauer Schlauch erhebt sich aus der Ebene – erst Sand, dann Staub, dann fast durchsichtig.  
-> Er tanzt, taumelt, lacht vielleicht, oder ist es nur der Wind?
+> In einem Hof aus Lehmziegeln steht eine Frau wie eine Notiz am Rand eines Buches. Ihre Augen sind wach, ohne zu sehen. Wenn sie spricht, ist ihre Stimme gut, aber ihr Schweigen ist besser.
 
-**Kein Kampf.**
+**Spiel:**
 
-- **Nature DC 12:** Staubteufel – natürlich.
+- Maris ist **keine Plotkanone**, sondern ein Mensch mit Trauma.
     
-- **Perception DC 15:** Die Wirbel bilden **kurz** eine Kreisfolge, die an eine **Notenzeile** erinnert (verschwindet sofort).
+- Sie bestätigt **die Glocke** und **den Seitenstollen**.
     
-- **Arcana DC 14:** Kein magischer Ursprung.
-    
-- **Choice:** Wer hindurchgeht, hört das eigene Blut lauter (kein Schaden, nur Gänsehaut).
+- Sie bittet **nicht** um Hilfe; sie rät **ab**. Das macht den Drang stärker.
     
 
----
+**Information (nur wenn SC respektvoll & geduldig):**
 
-### Szene 6 – Der Himmel der Nadeln (Nacht)
-
-#### Vorlesetext
-
-> Die Nacht fällt wie schwarzes Tuch.  
-> Sterne wie Nadeln – zu scharf, zu viele, zu geordnet, als wäre der Himmel vermessen worden.
-
-**Lagermechanik:**
-
-- **Watch Order** festlegen.
+- Der Seitenstollen führt zu einer **„Kammer, die atmet“**.
     
-- Jede Wache **Perception DC 12**:
+- Das Läuten hat niemand ausgelöst; es war **bereits da** (wichtig!).
     
-    - Erfolg: nichts.
-        
-    - Nat 20: ein (scheinbar) **doppelter Meteorschweif** – einer fliegt, einer folgt einen Herzschlag später.
-        
-- **Bard/Weiser – History oder Arcana DC 13:** alte Netheril-Sagen erwähnen **Sonnensteine**, die Klänge konservieren.
-    
-
-#### Für sehr aufmerksame SCs
-
-- **Insight DC 13:** Jemand im Lager atmet **im gleichen Takt** wie der Nachhall eines entfernten Geräuschs (Erklärung: Erschöpfung… oder etwas horcht).
+- Bei Erwähnung der „Glocke“: _Einsicht_ (DC 13) → Maris’ **Puls synchronisiert** sich mit Fernklängen.
     
 
 ---
 
-### Szene 7 – Der verlorene Schrein (optional Mini-Dungeon)
+## Kapitel 3 – **Die unterirdische Wunde**
 
-#### Vorlesetext
+### Szene 7 – **Zum alten Schacht** (Weg, Hazard, Stimmung)
 
-> Bei Tageslicht zeichnet der Wind eine Linie über den Sand.  
-> Ihr folgt ihr – und dort, wo die Linie endet, sackt der Boden weg und legt einen Winkel aus schwarzem Stein frei: eine Stufe, eine Kante, ein Eingang, der keiner sein will.
+**Boxtext**
 
-**Aufbau (3 Räume, 60–90 Min.)**
+> Vor der Stadt wälzt sich die Steppe, flach und müde. Am Horizont krümmen sich schwarze Balken gegen den Himmel — die Gerippe der Fördertürme. Der Wind spielt keine Melodie. Er zählt.
 
-1. **Versandete Vorhalle:**
+**Anmarsch:**
+
+- _Überleben_ (DC 12): vermeidet lockeren Boden, spart 30 Min Zeit.
     
-    - **Athletics DC 12** (graben) oder **Mold Earth** etc.
-        
-    - **Trap (einfach):** Druckplatte unter Sand (Dex Save DC 12) → 1D8 bludgeoning (herabfallendes Geröll).
-        
-2. **Klangkammer:**
-    
-    - Halbrund, Nischen mit **Sonnensteintafeln**.
-        
-    - **Investigation DC 13:** feine Rillen → _Lesen durch Berühren_ (Vibrationen).
-        
-    - **Comprehend Languages** oder **Arcana DC 15:** Textfragmente:
-        
-        > „Leben ist Schwingung. Tod ist Stille. Zwischen beidem liegt der Chor.“
-        
-3. **Sakristei der Splitter:**
-    
-    - Ein Obelisk (obsidian-schwarz).
-        
-    - **Religion/Arcana DC 15:** kein Gott; **Klangaltar**.
-        
-    - **Loot (Uncommon Wondrous)**: _Sunshard Tuning Fork_ – 1/Long Rest: **Guidance** als Reaktion, oder einmal **Detect Magic** mit Reichweite 60 ft, erfasst auch **Vibrationen** (Hive-Spuren).
-        
-
-#### Für sehr aufmerksame SCs
-
-- **Perception DC 15:** In Stille vibriert eine der Tafeln **ohne Berührung** ganz schwach – als antworte sie einem Ton _unter dem Boden_ (Foreshadowing).
+- **Wetter:** heiß, staubig; _Konstitution_ (DC 10) für jeden ohne Wasser → 1 Stufe Erschöpfung (leicht).
     
 
 ---
 
-### Szene 8 – Die Richtung der Stille (Kompassversagen)
+### Szene 8 – **Der Stollenmund** (erste Schicht Resonanz)
 
-#### Vorlesetext
+**Boxtext**
 
-> Gegen Nachmittag gibt es kein Oben mehr, nur Licht.  
-> Euer Schatten weiß nicht, wohin er fallen soll.  
-> Der Kompass dreht sich, als wolle er jemanden finden, der nicht hier ist.
+> Der Schacht atmet kalt. Holzverstrebungen knacken in gleichmäßigen Abständen, als folgten sie einem unsichtbaren Takt. Im Staub liegen Fußspuren. Manche laufen bis zur Schwelle — und kehren nicht um.
 
-**Mechanik:**
+**Erkundung in kurzen Korridoren:**
 
-- **Survival DC 14**: Kurs halten.
+- _Wahrnehmung_ (DC 12): feiner schwarzer **Staub** an bestimmten Stellen → „Rußlinien“ (alte Druckwellen).
     
-    - Misserfolg: **Verirrt** (1W4 Stunden Umweg) + nächster Kampf beginnt ohne Überraschungswurf (die Gruppe ist unaufmerksam).
-        
-- **Dünnes Dröhnen** (nur spürbar).
+- _Arkane Kunde_ (DC 13, Vorteil falls Notiz aus Szene 5): erkennbare **Resonanzknoten** (Markierungen am Holz).
     
-- Ein **Resonanzfelsen** (manngroß, halbkugelig) – klingt _spürbar_ hohl, wenn man ihn berührt.
-    
-
-#### Für sehr aufmerksame SCs
-
-- **Investigation DC 14:** Unter dem Felsen: kleine **Sandkaverne** – nicht grabend entstanden, eher **ausgehöhlt durch Vibration**.
+- **Kleines Rätsel (optional, 5 Min):** Drei Wandmarken – werden sie **in gleicher Reihenfolge** berührt, **verstummt** der Gang (nächste Probe Vorteil); falsche Reihenfolge → _lautes Echo_ (Nachteil auf Heimlichkeit bis Begegnungsende).
     
 
 ---
 
-### Szene 9 – Die Stille unter dem Sand (Kampf)
+### Szene 9 – **Seitengang & Atemkammer** (Vorhof zur Glocke)
 
-#### Vorlesetext
+**Boxtext**
 
-> Der Wind hält den Atem an.  
-> Die Wüste steht still.  
-> Dann bebt die Fläche – erst kaum, dann mehr – und reißt auf wie Haut, die zu straff gespannt wurde.
+> Der Seitenstollen endet in einer Kammer, die zu groß ist, um ein Versehen zu sein. Wände aus versteinertem Sand, glatt wie Glas. In der Mitte: ein Schacht, der nach unten führt. Ihr hört nichts. Und doch vibriert die Luft, als wolltet ihr jeden Moment einen Ton erinnern.
 
-**Encounter:**
+**Gefahr:**
 
-- **2 × Dust Mephit** (MM p. 215)
+- _Akrobatik_ (DC 12) über schmale Stege; misslingt → 1W6 Sturz + Staubwolke (beeinflusst nächste Szene, siehe Taktik).
     
-- **1 × Hive-berührte Bulette (Variante, CR 3)** – Werte wie vorgeschlagen:
-    
-    - **AC** 17, **HP** 84 (8d10+40), **Bite** +6 (2D10+4), **Sand Spray (Rchg 5–6)** (Dex 13, 2D6 bludgeoning + 1D6 necrotic, blinded 1 rd), **Hive Residue** (Con 13, 1D4 necrotic bei Treffer).
-        
-    - **Taktik:** taucht, rammt, verschwindet, nutzt Mephit-Blinds (Dust Cloud) als Deckung.
-        
-    - **Flucht:** bei ≤ 20 HP verschwindet sie im Sand, hinterlässt **grauen Staub** mit glasigem Schimmer.
-        
-
-**Checks & Taktikhinweise**
-
-- **Survival/Perception DC 14** als Aktion: **Grabenlinie** verfolgen → Vorteil auf nächsten Angriff gegen die Bulette (wenn sie auftaucht).
-    
-- **Athletics DC 12**: schnelles Klettern auf Felsen → Schutz gegen Burrow-Angriff.
-    
-- **Area Control** (Grease/Spike Growth) wirkt hervorragend – bemerke: **Sand Spray** kann _Grease_ teilweise zudecken (advantage auf Save gegen Ausrutschen für 1 Runde).
-    
-
-**Belohnung**
-
-- **XP entsprechend CR**, plus **Trophäe:** _Gespannter Kiefersplitter_ (alchemistischer Rohstoff → später Zutaten für Anti-Resonanz-Mixtur).
-    
-- **Nature/Arcana DC 14** (Untersuchung): Mikrorisse im Panzer → **glasartige Linien**, schwaches inneres **Pulsieren** (keine offene Hive-Präsenz, nur Berührung).
-    
-
-**Karawanen-NSC (falls du willst)**
-
-- Ein verbergter **Führer** kommt hervor (Namevorschlag: **Asho ben Hadr**).
-    
-    > „Das war kein Tier. Das war Sand, der träumt. Bei der Mine träumt der Sand lauter.“
+- **Hier** kann man rasten (kurz), aber die **Stille „dröhnt“** – SC mit hohem WE merken es, aber es schadet nicht.
     
 
 ---
 
-### Szene 10 – Oase Arem (Ruhe & Träume)
+### Szene 10 – **Die Glockenkammer** (Rätsel & Stimmung)
 
-#### Vorlesetext
+**Boxtext**
 
-> Wasser, das nicht aus dieser Welt zu sein scheint – dunkel, ruhig, mit einem Geschmack von altem Stein.  
-> Palmen, deren Blätter klingen, wenn der Wind sie berührt.  
-> Menschen, die nicht singen und doch im gleichen Rhythmus atmen.
+> Die Glocke ist nicht aus Metall. Sie ist aus Stein, aus altem, gebrochenem Klang. Kein Seil, kein Hammer. Und doch passt der Raum um sie herum wie ein Mund um einen Laut, den niemand spricht.
 
-**Funktionen der Oase**
+**Rätsel „Gegenklang“ (sehr kurz, klar):**
 
-- **Long Rest** (Ermüdung heilen).
+- Drei **Resonanzrippen** (Grate) um die Glocke.
     
-- **Handel** (Wasser, Heilkräuter, einfache Tinkturen).
+- **Lösung:** berührt ihr sie **asynchron** (in der Reihenfolge 1–3–2, mit _je 2–3 Sekunden Abstand_), „verstimmt“ sich der Raum → **Vorteil** auf Rettungswürfe gegen Schall in der Folgeszene.
     
-- **Gerüchte (d6):**
-    
-    1. „Im Norden spaltet ein dumpfer Schlag die Nächte.“
-        
-    2. „Karawanen verlieren Zeit: ein Tagesmarsch, der keiner war.“
-        
-    3. „Ein schwarzer Felsen wächst – gestern war er kleiner.“
-        
-    4. „Tiere wimmern in der Stille, wenn der Boden atmet.“
-        
-    5. „Ein Schrein im Sand – die Toten hören dort besser.“
-        
-    6. „Die Mine? Man sagt, sie höre jetzt zu.“
-        
-
-**Träume (ein SC nach Wahl, **Wis Save DC 12** halbiert die Eindrücklichkeit)**
-
-> Ein Korridor aus Sand, der nicht fällt.  
-> Schritte ohne Füße.  
-> Eine Wand, die nach innen atmet, und euer Name, gesprochen von einer **Zunge aus Staub** – nicht als Wort, sondern als **Ton**.
-
-#### Für sehr aufmerksame SCs
-
-- **Perception DC 14:** Am Oasenrand, nachts: **kreisförmige Wellen** im Wasser, obwohl kein Wind geht.
-    
-- **Religion DC 13:** Pilger hinterlassen **Steinmarken** in gleichmäßigen Abständen – ein **Geh-Ritual**?
+- **Fehler:** kurzer, tonloser Druckstoß → **Nachteil** auf die erste Rettung in der Folgeszene.
     
 
 ---
 
-### Szene 11 – Fernbeben (Akt-Hook)
+### Szene 11 – **Wächter der Kammer → Kampf 2**
 
-#### Vorlesetext
+**Gegner:**
 
-> In der Stunde, bevor die Sonne die Farbe wechselt, kommt er:  
-> ein einziger, tiefer Schlag – so fern, dass er kaum zu hören ist,  
-> und doch so nah, dass euer Brustkorb antwortet.  
-> Danach: Stille. Und eine Richtung.
-
-**Mechanik & Entscheidung**
-
-- **Survival DC 12**: Richtung **Nordost** wird eindeutig (Mine).
+- 1 × **Resonanz-Ritter** (CR 3) – der „Wächter der Glocke“, von altem Auftrag übrig
     
-- **Group Choice:** Aufbruch sofort (hart), oder Vorbereitung (Vorteile, aber 1 d4 „seltsame Ereignisse“ am Oasenrand).
-    
-- **Questlog-Gefühl:** Ohne NPC-Auftrag – **sie gehen, weil sie wollen.** Genau so soll es sein.
+- 1 × **Resonanzecho** (CR ¼) – aus der Glocke „ausblutend“
     
 
+**Arena-Besonderheiten:**
 
----
+- **Stehende Wellen**: alle 2 Runden _Initiative 20_ → **Luftdruckimpuls**, KO-Rettung (DC 13), bei Misserfolg 1W6 Schallschaden und **5 ft** weggeschoben.
+    
+- **Glockenleib**: Treffer mit Wuchtwaffen gegen die Glocke lassen **alle** im Umkreis 3 m KO-Rettung (DC 12) machen oder betäubt bis Rundenende (verhindert Schild-Reaktion des Ritters, aber riskant).
+    
 
-## Akt III – Der Atem der Tiefe
+**Taktik:**
 
-_„Der Stein hat keine Lunge, und doch atmet er.“_
+- Ritter nutzt **Harmonisches Schild** reaktiv; schützt das Echo (Bindung der Ordnung).
+    
+- Das Echo bewegt sich zu sprechenden Zauberern; zwingt sie zum **Positionsspiel**.
+    
+- **Ziel:** den Ritter entkoppeln (Trennen vom Echo), dann fokussieren.
+    
 
-**Ort:** Die Mine von Tharum, nördliche Ausläufer der Anauroch  
-**Themen:** Isolation · Dunkelheit · Klang · Verlust · fremde Ordnung  
-**Atmosphäre:** Klaustrophobisch, aber leise und langsam – kein Schockhorror.
+**Skalierung:**
 
----
+- **+** bei 5–6 SC oder Level 3 → zweites Echo.
+    
+- **−** bei schwacher Gruppe → Ritter beginnt mit ¾ TP und verliert Harmonisches Schild (1. Runde).
+    
 
-### Szenenübersicht
+**Belohnung:**
 
-1. **Ankunft am Grubenlager** – Staub und verlassene Zelte
+- **Resonanzsplitter (Verbrauchsgegenstand):** 1×/Tag als Aktion, eine **stehende Welle** brechen → beende 1× _Halt_, _Betäubt_ oder _Verlangsamt_ auf 1 Ziel im 9-m-Radius.
     
-2. **Der Eingang zur Tiefe** – Geröll und Widerhall
-    
-3. **Abstieg I – Die Echoschächte**
-    
-4. **Abstieg II – Das verlorene Werkzeuglager**
-    
-5. **Die Luft steht still** – Erste Wahrnehmungsstörung
-    
-6. **Der Saal der Resonanzadern**
-    
-7. **Die Werkhalle der Versteinerten**
-    
-8. **Die Kammer des Herzens**
-    
-9. **Einsturz & Flucht**
-    
-10. **Oberfläche – Stille nach dem Sturm**
+- **Glockenstaub** (10 Dosen, Alchemie): als Materialkomponente gewährt er bei einem Zauber _Dispel Magic_ gegen schallbasierte Effekte **+2**.
     
 
 ---
 
-### 1. Ankunft am Grubenlager
+### Szene 12 – **Nachhall & Entscheidung** (kleine Vision, Hook)
 
-#### Vorlesetext
+**Boxtext**
 
-> Der Himmel glüht wie Eisen, der Sand ist grau.  
-> Vor euch ragen die Reste aus Holz und Stoff – das alte Lager der Mine.  
-> Zelte halb zerrissen, Loren umgekippt, Werkzeuge im Staub wie eingefrorene Hände.
+> Als der Ritter fällt, kippt die Stille. Für einen Herzschlag ist es, als läge die ganze Welt in eurem Ohr. Dann hört ihr — nichts. Und genau dieses Nichts ist ein Ton. Jemand — etwas — hat eure Namen gewusst und wieder vergessen.
 
-**Interaktion**
+**Vision (kurz, individuell, harmlos):**
 
-- **Investigation DC 12:** Spuren zeigen geordnete Flucht, keine Panik.
+- Jede/r SC sieht einen **Ort der Kindheit** – aber alle Geräusche fehlen. Kein Lachen, kein Wind. Nur **Atmen**.
     
-- **Perception DC 13:** Der Wind ändert Tonhöhe, wenn er über die Schächte streicht.
-    
-- **Survival DC 12:** Drei Eingänge; einer frisch verschüttet, einer offen, einer schmal und neu ausgehoben.
+- Danach: _Weisheit_ (DC 12) → wer besteht, spürt kurz eine **Abneigung gegen Gleichmaß** (rein narrativ).
     
 
-**Für aufmerksame SCs**
+**Konsequenz & Hook:**
 
-- **Arcana DC 14:** Metallteile vibrieren leise in gleichem Takt.
+- Die Glocke „fällt“ nicht; sie **verstummt** für Stunden/Tage.
     
-- **Insight DC 13:** Das Lager wirkt nicht aufgegeben – es wartet.
+- Spuren (Runen, Staub) deuten **nach Süden**: Oasenweg → **Akt II**.
+    
+- Maris Vahr kann später (in Akt II) **auf Abstand** den SC folgen – als autobiografischer Spiegel.
     
 
 ---
 
-### 2. Der Eingang zur Tiefe
 
-#### Vorlesetext
-
-> Der Schacht gähnt wie ein offenes Maul.  
-> Der Sand fließt darüber wie Atem, der nicht aus Lungen kommt.  
-> Unten – nichts als Schwarz, und doch ein dumpfer Takt, wie Herzschlag unter Stein.
-
-**Checks**
-
-- **Athletics DC 12** (klettern am Seil) – Scheitern: 1D6 Falling Damage, kein Ernstfall.
-    
-- **Wis Save DC 12:** Kurzes Schwindelgefühl, als würde die Tiefe ziehen.
-    
-
----
-
-### 3. Abstieg I – Die Echoschächte
-
-#### Vorlesetext
-
-> Die Luft wird kühler.  
-> Jeder Tropfen Wasser klingt zweimal.  
-> Der zweite Ton kommt nicht später – sondern anders.
-
-**Navigation**
-
-- **Survival DC 13:** Richtungsgefühl behalten.
-    
-- **Arcana DC 14:** Schall verhält sich unmöglich – Echos wandern seitlich.
-    
-- Fackeln brennen langsamer; Luft „zäh“.
-    
-
-**Optional Encounter**
-
-- **1D4 Giant Rats** (aber still wie Stein). Kein Kampf notwendig – sie versteinen bei Tod (Flavor).
-    
-
----
-
-### 4. Abstieg II – Das verlorene Werkzeuglager
-
-#### Vorlesetext
-
-> Hämmer, Spitzhacken, Räder – alles geordnet, aufgestellt, wie vor Prüfung.  
-> Niemand hat sie hingestellt.  
-> Der Staub liegt darüber wie eine zweite Haut.
-
-**Checks**
-
-- **Investigation DC 13:** Werkzeuge vibrieren, wenn man darauf klopft.
-    
-- **Arcana DC 15:** Metall nimmt Ton auf – kurzer Flüsterton aus Hammerschlag.
-    
-- **Wis Save DC 13:** Leichtes Ohrensausen; SC hört den eigenen Namen für 1 Sekunde.
-    
-
----
-
-### 5. Die Luft steht still
-
-#### Vorlesetext
-
-> Kein Wind. Kein Tropfen. Nur Stille.  
-> Fackeln flackern nicht.  
-> Der Sand am Boden bewegt sich in feinen Wellen – als würde er atmen.
-
-**Mechanik**
-
-- Kurze Rast.
-    
-- **Con Save DC 12:** Atemnot in stehender Luft.
-    
-- **Perception DC 14:** Ein Ton wie ein langsames Ein- und Ausatmen aus den Felsen.
-    
-
----
-
-### 6. Der Saal der Resonanzadern
-
-#### Vorlesetext
-
-> Ein gewaltiger Hohlraum, Wände aus grau-grünem Stein, durchzogen von leuchtenden Adern.  
-> Kein Licht – nur Phosphorglanz, der im Rhythmus der Herzen flackert.
-
-**Exploration**
-
-- **Arcana DC 15:** Die Adern reagieren auf Stimme oder Instrument – Tonhöhe ändert Leuchtintensität.
-    
-- **Investigation DC 14:** Die Adern sind nicht Kristalle, sondern versteinertes **Gewebe**.
-    
-- **Religion DC 16:** Kein Göttersymbol – aber Struktur ähnelt sakraler Geometrie (Netheril?).
-    
-
----
-
-### 7. Die Werkhalle der Versteinerten
-
-#### Vorlesetext
-
-> Schatten an den Wänden sehen aus wie Menschen.  
-> Beim Licht erkennt ihr: nicht Schatten – Abdrücke, eingebrannt in den Stein.  
-> Jeder in anderer Pose, aber alle blicken nach oben.
-
-**Checks**
-
-- **Arcana DC 14:** Hohe Wärmeeinwirkung, aber keine Verbrennung.
-    
-- **Insight DC 13:** Ihre Gesichter sind nicht verzerrt – sie staunten.
-    
-- **Perception DC 15:** Ein Flüstern hinter dem Stein, drei Schläge lang, dann weg.
-    
-
----
-
-### 8. Die Kammer des Herzens
-
-#### Vorlesetext
-
-> Am tiefsten Punkt öffnet sich eine Kammer, so rund, als hätte sie jemand aus dem Gestein geatmet.  
-> In der Mitte steht ein Felsblock, pulsierend, leise, warm.  
-> Darin eingeschlossen: ein Werkzeug – eine Glocke aus Knochen, halb geschmolzen, halb gewachsen.
-
-**Optionen**
-
-- **Arcana DC 15:** Resonanzquelle – jede Berührung verursacht Welle (alle Wis Save DC 13 oder 1D4 Psychic).
-    
-- **Religion DC 14:** Symbol ähnlich Lathanders, aber verdreht – Licht kehrt nach innen.
-    
-- **Choice:** SC lassen sie in Ruhe (kein Einsturz), oder berühren / nehmen → Mine reagiert.
-    
-
----
-
-### 9. Einsturz & Flucht
-
-#### Vorlesetext
-
-> Erst ein Knistern, dann ein Ton – tief, lang gezogen, nicht laut, aber alles zittert.  
-> Der Stein reißt wie Stoff, und Staub atmet auf.
-
-**Mechanik**
-
-- **Dex Save DC 13:** Vermeidung von 2D6 Falling Damage.
-    
-- **Group Check Athletics/Acrobatics DC 12:** Flucht durch kollabierenden Schacht.
-    
-- **Failure by >2:** Ein SC wird kurz eingeschlossen → Wis Save DC 14 (claustrophobic panic).
-    
-- Fackeln erlöschen, nur Nachleuchten der Adern weist Weg.
-    
-
-**Während der Flucht**
-
-> Hinter euch ein Atemzug – nicht euer.  
-> Dann ein Knacken, wie ein Finger auf Glas.  
-> Stille.
-
----
-
-### 10. Oberfläche – Stille nach dem Sturm
-
-#### Vorlesetext
-
-> Die Sonne ist bereits tief, als ihr die Oberfläche erreicht.  
-> Der Wind steht still.  
-> Der Sand liegt flach, als hätte er auf euch gewartet.  
-> Unter euren Füßen – kein Ton.
-
-**Checks**
-
-- **Arcana DC 13:** Die Resonanz der Adern endet nicht plötzlich – sie verlagert sich nach oben.
-    
-- **Perception DC 14:** Im Wind ein tiefer Ton – nicht mehr aus der Mine, sondern aus der Luft.
-    
-
-**Ende**
-
-> Ihr spürt einen Puls in der Erde. Nur einmal.  
-> Dann nichts.  
-> Tharum liegt im Westen. Der Weg zurück ist lang.  
-> Und irgendwo unter euch atmet etwas weiter.
-
----
-
-## 🪶 Ergebnis & Belohnungen der Phase
-
-- **Abschluss Phase I** – die SC haben die erste Ebenenberührung überlebt.
-    
-- **XP & Level 4** (erreicht bei Rückkehr nach Tharum).
-    
-- **Item Option (1 Fund):** _Shard of Resonance_ (+1 Arcana vs. Hive-Effekte, leuchtet bei Ton).
-    
-- **Langzeitwirkung:** mindestens ein SC träumt fortan vom „Atem“ – alle zwei Nächte leichter Tremor, kein Effekt.
-    
-
----
