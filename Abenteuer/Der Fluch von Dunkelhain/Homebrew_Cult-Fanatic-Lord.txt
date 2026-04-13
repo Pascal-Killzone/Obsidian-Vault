@@ -1,0 +1,62 @@
+{
+  "name": "Varkis, Cult Fanatic Lord",
+  "size": "Medium",
+  "type": "humanoid (human)",
+  "alignment": "chaotic evil",
+  "ac": 14,
+  "hp": 52,
+  "hit_dice": "8d8+16",
+  "speed": "30 ft.",
+  "stats": [12, 15, 14, 11, 14, 16],
+  "saves": [
+    {"name": "Wis", "value": 4},
+    {"name": "Cha", "value": 5}
+  ],
+  "skills": [
+    {"name": "Deception", "value": 5},
+    {"name": "Intimidation", "value": 5},
+    {"name": "Persuasion", "value": 5},
+    {"name": "Religion", "value": 2}
+  ],
+  "senses": "passive Perception 12",
+  "languages": "Common, Abyssal",
+  "cr": "3",
+  "traits": [
+    {
+      "name": "Dark Devotion",
+      "description": "Varkis has advantage on saving throws against being charmed or frightened."
+    },
+    {
+      "name": "Spellcasting",
+      "description": "Varkis is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). Varkis has the following cleric spells prepared: Cantrips (at will): guidance, sacred flame, thaumaturgy; 1st level (4 slots): command, inflict wounds, shield of faith; 2nd level (3 slots): hold person, spiritual weapon; 3rd level (2 slots): bestow curse, spirit guardians."
+    },
+    {
+      "name": "Phase 1: Fanatical Zeal (Recharge 5–6)",
+      "description": "As a bonus action when Varkis is reduced to half its hit points or fewer for the first time, it enters a zealous phase until the end of its next turn. During this phase: Its speed increases to 40 ft.; It regains 13 (2d8 + 4) hit points; Its spiritual weapon and spirit guardians deal an extra 1d8 necrotic damage on a hit or in the area. At the end of this phase, it can repeat the effect if it recharges."
+    },
+    {
+      "name": "Phase 2: Blessing of Tyranny",
+      "description": "When Varkis is reduced to 20 hit points or fewer, Bane grants it this blessing as a reaction (lasts until Varkis is defeated or 3 rounds pass). During this phase: Varkis gains 10 temporary hit points; Its melee attacks deal an extra 2 necrotic damage; As an action (1/round), Varkis activates Aura of Fear: 'Varkis raises his amulet, and a wave of fear washes over you, as if Bane's gaze crushes you down!' Each creature within 10 ft. must succeed on a DC 13 Wisdom saving throw or be frightened until the end of its next turn (can't move toward Varkis and has disadvantage on attack rolls). On a success, the creature is immune to this aura for 24 hours."
+    }
+  ],
+  "actions": [
+    {
+      "name": "Multiattack",
+      "description": "Varkis makes two attacks: one with its scimitar and one with its dagger or a cantrip."
+    },
+    {
+      "name": "Scimitar",
+      "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage."
+    },
+    {
+      "name": "Dagger",
+      "description": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage."
+    },
+    {
+      "name": "Fanatical Command (Recharges after a Short or Long Rest)",
+      "description": "Varkis targets one creature it can see within 30 ft. The target must succeed on a DC 12 Wisdom saving throw or be charmed by Varkis for 1 minute or until it takes damage. A charmed target must use its action on its next turn to attack a creature of Varkis's choice other than itself."
+    }
+  ],
+  "source": "Homebrew",
+  "xp": 700
+}
